@@ -1,0 +1,7 @@
+﻿,cluster_id,count,name,description
+0,0,34,Small Petal Width,This cluster is characterized by small petal widths and moderate sepal and petal lengths.
+1,1,27,Small Petal Species,"This cluster consists of 27 samples with relatively small petal lengths and widths, and moderate sepal lengths and widths."
+2,2,23,Small Petal Clusters,"This cluster consists of 23 data points with relatively small petal lengths and widths, and moderate sepal lengths and widths."
+3,3,16,Small Petal Clusters,"This cluster is characterized by small sepal and petal lengths, with average values below the overall mean."
+4,4,28,Small Petal Width Group,"This cluster consists of 28 data points with relatively small petal widths, averaging 2.17, and moderate sepal and petal lengths."
+5,5,22,Small Petal Width,This cluster is characterized by small petal width and moderate sepal dimensions.

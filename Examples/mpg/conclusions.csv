@@ -1,0 +1,10 @@
+﻿,cluster_id,count,name,description
+0,0,59,Classic European Sedans,"This cluster consists of 59 data points, primarily featuring older, smaller sedans from European manufacturers, with a focus on fuel efficiency and moderate performance."
+1,1,40,Classic American Muscle Cars,"This cluster consists of 40 American cars from the 1970s, characterized by high horsepower, displacement, and weight, with a focus on classic muscle car models."
+2,2,58,Classic American Economy Cars,"This cluster consists of 58 vehicles, primarily American-made economy cars from the 1970s and 1980s, with a focus on fuel efficiency and moderate performance."
+3,3,45,Japanese Compact Sedans,"This cluster consists of 45 data points, primarily featuring Japanese compact sedans, with a focus on Toyota Corolla, Mazda 626, and Honda Accord models, with a range of horsepower and model years."
+4,4,61,API Error,"Failed to call LLaMA API: Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/v1/chat/completions' (Amz CF ID: HneNuImc7Ay-aHpF5oF3ucQB3a4OVqAiUkKKiE6WZGOZ6FdXontkYA==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+5,5,74,American Compact Cars,"This cluster consists of 74 data points, primarily featuring American compact cars from the 1970s, with a focus on Ford Maverick, AMC Hornet, and AMC Gremlin models."
+6,6,32,Classic European Economy Cars,"This cluster consists of 32 data points, primarily featuring European-made economy cars from the 1970s, with a focus on Ford Pinto, Chevrolet Vega, and Peugeot 504 models."
+7,7,29,Early Economy Cars,"This cluster consists of 29 cars with a focus on early economy models, characterized by lower horsepower and displacement, and a mix of Japanese and American brands."
